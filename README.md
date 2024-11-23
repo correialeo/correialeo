@@ -12,7 +12,7 @@
   <img  align='center' alt="Typescript" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div><br/>
 
-Estudante dedicado de Análise e Desenvolvimento de Sistemas na FIAP, estou sempre buscando aprender e melhorar. Buscando um estágio.
+Estudante dedicado de Análise e Desenvolvimento de Sistemas na FIAP e desenvolvedor fullstack junior no Grupo ShopMix.
 
 
 ### Email: leandroo774@outlook.com
