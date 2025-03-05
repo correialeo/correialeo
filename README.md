@@ -1,13 +1,4 @@
-### Olá, eu sou o Leandro Correia 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lcaf)
-
-![Leandros's GitHub stats](https://github-readme-stats.vercel.app/api?username=correialeo&show_icons=true&theme=dark)
-
-
-Estudante de Análise e Desenvolvimento de Sistemas na FIAP e desenvolvedor junior no Grupo ShopMix.
-
-
-### Email: leandroo774@outlook.com
+Junior Developer at @GrupoShopMix
 <!--
 **correialeo/correialeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
