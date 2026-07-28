@@ -1,1 +1,1 @@
-developer at @GrupoShopMix
+fullstack developer at @GrupoShopMix
