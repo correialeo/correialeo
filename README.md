@@ -1,2 +1,2 @@
-Founder & Software Engineer @ [Trecho](https://gettrecho.com.br)
-Full Stack Developer @ [GrupoShopMix](https://gruposhopmix.com.br)
+Founder & Software Engineer at [Trecho](https://gettrecho.com.br) <br>
+Full Stack Developer at [GrupoShopMix](https://gruposhopmix.com.br)
